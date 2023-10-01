@@ -71,9 +71,9 @@
       ]
     },
     {
-      "group": "API Documentation",
+      "group": "Guides",
       "pages": [
-        "api-reference/authentication"
+        "guides/authentication"
       ]
     },
     {
