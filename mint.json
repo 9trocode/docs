@@ -56,8 +56,8 @@
       "group": "Get Started",
       "pages": [
         "introduction",
-        "quickstart",
-        "development"
+        "Shared server",
+        "Your own cloud"
       ]
     },
     {
